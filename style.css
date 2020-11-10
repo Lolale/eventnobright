@@ -1,0 +1,38 @@
+
+body{
+    background-color: white;
+    
+}
+
+legend{
+    color: black;
+
+}
+
+/***INDEX****/
+.index{
+    
+}
+
+#tittle{
+    color: white;
+    background-color: #C2B0F5;
+    font-style: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/*****authentification***/
+
+.form-group{
+    padding: 1%;
+    width: 40%;
+    color: grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p-signup{
+    color:#C2B0F5;
+    font-style: oblique;
+}
